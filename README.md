@@ -1,0 +1,1 @@
+This is a little toy program I made in groovy + Swing to emulate drawing names out of a hat.
